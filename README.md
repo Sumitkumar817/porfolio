@@ -1,12 +1,13 @@
 # 📌 Portfolio Website
 
-This is a basic personal **portfolio website** created using **HTML**. It showcases my profile, education, skills, projects, certifications, and contact details.
+🌐 **Live Demo:**
+👉 [https://sumitkumar817.github.io/porfolio/](https://sumitkumar817.github.io/porfolio/)
 
 ---
 
 ## 👨‍💻 About the Project
 
-This project is a static portfolio webpage designed to present my personal and academic information in a structured format. It is built using only HTML and can be opened in any web browser.
+This is my personal **portfolio website** built using **HTML**. It presents my profile, education, skills, projects, and contact details in a clean and structured format.
 
 ---
 
@@ -18,11 +19,11 @@ This project is a static portfolio webpage designed to present my personal and a
 
 ## 📂 Features
 
-* 📌 Personal introduction section
-* 📬 Contact information (Email, LinkedIn, GitHub, Phone)
-* 🎓 Education details in table format
+* 📌 Personal introduction
+* 📬 Contact section (Email, LinkedIn, GitHub, Phone)
+* 🎓 Education details (table format)
 * 🛠️ Skills and tools
-* 🚀 Project description
+* 🚀 Project information
 * 📜 Certifications
 * 💪 Strengths
 * 🌐 Languages known
@@ -31,21 +32,26 @@ This project is a static portfolio webpage designed to present my personal and a
 
 ## 📁 File Structure
 
-```
-project-folder/
+```bash
+portfolio/
 │
-├── index.html   # Main portfolio file
-└── README.md    # Project documentation
+├── index.html
+└── README.md
 ```
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
-1. Download or clone this repository
-2. Open the folder
-3. Double-click on `index.html`
-4. The portfolio will open in your default browser
+1. Clone the repository
+
+```bash
+git clone https://github.com/Sumitkumar817/porfolio.git
+```
+
+2. Open the project folder
+
+3. Run `index.html` in your browser
 
 ---
 
@@ -59,9 +65,11 @@ project-folder/
 
 ## ⭐ Future Improvements
 
-* Add CSS for better design
-* Make the website responsive
-* Add JavaScript for interactivity
-* Deploy on GitHub Pages
+* Add CSS for better UI/UX
+* Make it fully responsive
+* Add animations using JavaScript
+* Improve design with modern layout
 
 ---
+If you want next level:
+I can help you make this README look 🔥 with **badges, screenshots, and portfolio preview image** (this really impresses recruiters).
